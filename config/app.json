@@ -1,0 +1,17 @@
+{
+  "allow_create_new_accounts" : true,
+  "send_emails"              : true,
+  "application_sender_email" : "david@vidax.com",
+  "email_transporter" : {
+    "host" : "smtp.mailgun.org",
+    "port" : 465,
+    "auth" : {
+      "user" : "postmaster@sandbox2e2a9e3657cc4559ac9eef34a86ef671.mailgun.org",
+      "pass" : "$4companyc7"
+    }
+  },
+  "ga_analytics_on" : false,
+  "crypto_secret" : "!2~`HswpPPLa22+=±§sdq qwe,appp qwwokDF_",
+  "application_domain" : "http://app.timeoff.management",
+  "promotion_website_domain" : "http://timeoff.management"
+}
